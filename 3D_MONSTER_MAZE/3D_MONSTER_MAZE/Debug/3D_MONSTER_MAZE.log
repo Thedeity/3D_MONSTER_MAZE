@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\user\source\repos\3d_monster_maze\3d_monster_maze\scripts\main.cpp(93): warning C4838: 從 'int' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\user\source\repos\3d_monster_maze\3d_monster_maze\scripts\main.cpp(93): warning C4244: '正在初始化': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\user\source\repos\3d_monster_maze\3d_monster_maze\scripts\main.cpp(105): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\3d_monster_maze\3d_monster_maze\scripts\main.cpp(106): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\source\repos\3d_monster_maze\3d_monster_maze\scripts\main.cpp(108): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  3D_MONSTER_MAZE.vcxproj -> C:\Users\User\source\repos\3D_MONSTER_MAZE\Debug\3D_MONSTER_MAZE.exe
