@@ -1,6 +1,8 @@
 # 3D_MONSTER_MAZE
 a simple maze game in c++
 
+開啟 ebug 資料夾內的 3D_MONSTER_MAZE.exe 即可遊玩
+
 遊戲玩法：以第一人稱在3D迷宮中遊走
 操作方法：
  w 向前
