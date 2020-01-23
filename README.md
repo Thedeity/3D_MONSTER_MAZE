@@ -4,6 +4,7 @@ a simple maze game in c++
 開啟 Debug 資料夾內的 3D_MONSTER_MAZE.exe 即可遊玩
 
 遊戲玩法：以第一人稱在3D迷宮中遊走
+
 操作方法：
  w 向前
  s 向後
@@ -27,6 +28,8 @@ a simple maze game in c++
 
 
 當走出迷宮便完成遊戲
+
 ![image](https://i.imgur.com/SMBILpU.png)
+
 
 按下鍵盤 r，可以在任何時候 (包含遊戲通關或失敗) 重置整個遊戲
